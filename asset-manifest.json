@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/g/static/css/main.138b57a5.css",
-    "main.js": "/g/static/js/main.8df138d5.js",
+    "main.css": "/g/static/css/main.1b223835.css",
+    "main.js": "/g/static/js/main.c3fd130d.js",
     "static/js/787.5e2ea4ab.chunk.js": "/g/static/js/787.5e2ea4ab.chunk.js",
     "static/media/tysonship.jpg": "/g/static/media/tysonship.1eba105d54f8bfab389d.jpg",
     "static/media/value5.jpg": "/g/static/media/value5.509216039ae1ae0e51d2.jpg",
@@ -50,12 +50,12 @@
     "static/media/back.svg": "/g/static/media/back.33e1e250c71905348aeda4f1b37acbcd.svg",
     "static/media/arrowleft.svg": "/g/static/media/arrowleft.6ae7d0aa25566b5d706bef548092d0aa.svg",
     "static/media/close.svg": "/g/static/media/close.64bf92ee346bf8d2a9a78d74a7da74aa.svg",
-    "main.138b57a5.css.map": "/g/static/css/main.138b57a5.css.map",
-    "main.8df138d5.js.map": "/g/static/js/main.8df138d5.js.map",
+    "main.1b223835.css.map": "/g/static/css/main.1b223835.css.map",
+    "main.c3fd130d.js.map": "/g/static/js/main.c3fd130d.js.map",
     "787.5e2ea4ab.chunk.js.map": "/g/static/js/787.5e2ea4ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.138b57a5.css",
-    "static/js/main.8df138d5.js"
+    "static/css/main.1b223835.css",
+    "static/js/main.c3fd130d.js"
   ]
 }
