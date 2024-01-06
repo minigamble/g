@@ -1,0 +1,19 @@
+{
+    "_id": "64c2950fac33b2a906da2673",
+    "account": "chigozie",
+    "classtype": "T0X",
+    "upload": "General",
+    "subject": "Biology",
+    "question": "The bicuspid valve is located between the",
+    "qimg": null,
+    "A": "A. left auricle and left ventricle",
+    "B": "B. aorta and left ventricle",
+    "C": "C. superior vena cava and inferior vena cava",
+    "D": "D. right auricle and superior vena cava",
+    "E": "E. right auricle and right ventricle",
+    "ANS": "a",
+    "id": "e8222c86-13e1-47f3-a10d-40984d04fc7d",
+    "createdAt": "2023-07-27T16:02:23.002Z",
+    "updatedAt": "2023-07-27T16:02:23.002Z",
+    "__v": 0
+  }
